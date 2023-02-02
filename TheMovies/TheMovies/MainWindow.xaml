@@ -8,7 +8,10 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="TheMovies" HorizontalAlignment="Center" Margin="0,96,0,0" VerticalAlignment="Top" Height="102" Width="400" FontSize="48" HorizontalContentAlignment="Center"/>
-        <Button x:Name="BookingBtn" Content="Booking" HorizontalAlignment="Center" Margin="0,273,0,0" VerticalAlignment="Top" Height="41" Width="132" Click="BookingBtn_Click"/>
+        <Button x:Name="HjermBtn" Content="Hjerm" HorizontalAlignment="Left" Margin="200,217,0,0" VerticalAlignment="Top" Height="41" Width="132" Click="HjermBtn_Click" />
+        <Button x:Name="VidebækBtn" Content="Videbæk" HorizontalAlignment="Left" Margin="200,287,0,0" VerticalAlignment="Top" Height="42" Width="132" Click="VidebækBtn_Click" />
+        <Button x:Name="ThorsmindeBtn" Content="Thorsminde" HorizontalAlignment="Left" Margin="468,217,0,0" VerticalAlignment="Top" Height="41" Width="132" Click="ThorsmindeBtn_Click" />
+        <Button x:Name="RæhrBtn" Content="Ræhr" HorizontalAlignment="Left" Margin="468,288,0,0" VerticalAlignment="Top" Height="41" Width="132" Click="RæhrBtn_Click" />
 
     </Grid>
 </Window>

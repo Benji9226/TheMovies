@@ -7,18 +7,21 @@
         mc:Ignorable="d"
         Title="BookingDialog" Height="450" Width="800">
     <Grid>
-        <ListBox HorizontalAlignment="Left" Height="330" Margin="32,0,0,0" VerticalAlignment="Center" Width="168" d:ItemsSource="{d:SampleData ItemCount=5}"/>
-        <Label x:Name="MovieNameLabel" Content="Movie name" HorizontalAlignment="Left" Margin="317,80,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="ProducerLabel" Content="Producer" HorizontalAlignment="Left" Margin="317,115,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="LengthLabel" Content="Length" HorizontalAlignment="Left" Margin="317,148,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="ShowMovieNameLabel" Content="" HorizontalAlignment="Left" Margin="414,80,0,0" VerticalAlignment="Top" Width="111" Background="White" BorderBrush="Black" BorderThickness="1,1,1,1"/>
-        <Label x:Name="ShowProducerLabel" Content="" HorizontalAlignment="Left" Margin="414,114,0,0" VerticalAlignment="Top" Width="111" Background="White" BorderBrush="Black" BorderThickness="1,1,1,1"/>
-        <Label x:Name="ShowLengthLabel" Content="" HorizontalAlignment="Left" Margin="414,148,0,0" VerticalAlignment="Top" Width="111" Background="White" BorderBrush="Black" BorderThickness="1,1,1,1"/>
-        <Label x:Name="PremierDateLabel" Content="Premier Date" HorizontalAlignment="Left" Margin="317,184,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="ShowPremierDateLabel" Content="" HorizontalAlignment="Left" Margin="414,184,0,0" VerticalAlignment="Top" Width="111" Background="White" BorderBrush="Black" BorderThickness="1,1,1,1"/>
-        <Label x:Name="GenreLabel" Content="Genre" HorizontalAlignment="Left" Margin="317,217,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="ShowGenreLabel" Content="" HorizontalAlignment="Left" Margin="414,217,0,0" VerticalAlignment="Top" Width="111" Background="White" BorderBrush="Black" BorderThickness="1,1,1,1"/>
-        <Button x:Name="GoToGuestDetailBtn" Content="Continue" HorizontalAlignment="Left" Margin="703,382,0,0" VerticalAlignment="Top" Click="GoToGuestDetailBtn_Click"/>
+        <ListBox HorizontalAlignment="Left" Height="330" Margin="32,57,0,0" VerticalAlignment="Top" Width="168" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <Label x:Name="MovieNameLabel" Content="Movie name" HorizontalAlignment="Left" Margin="268,85,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ProducerLabel" Content="Producer" HorizontalAlignment="Left" Margin="268,120,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="LengthLabel" Content="Length" HorizontalAlignment="Left" Margin="268,153,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ShowMovieNameLabel" Content="" HorizontalAlignment="Left" Margin="365,85,0,0" VerticalAlignment="Top" Width="174" Background="White" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+        <Label x:Name="ShowProducerLabel" Content="" HorizontalAlignment="Left" Margin="365,119,0,0" VerticalAlignment="Top" Width="174" Background="White" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+        <Label x:Name="ShowLengthLabel" Content="" HorizontalAlignment="Left" Margin="365,153,0,0" VerticalAlignment="Top" Width="174" Background="White" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+        <Label x:Name="PremierDateLabel" Content="Premier Date" HorizontalAlignment="Left" Margin="268,189,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ShowPremierDateLabel" Content="" HorizontalAlignment="Left" Margin="365,189,0,0" VerticalAlignment="Top" Width="174" Background="White" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+        <Label x:Name="GenreLabel" Content="Genre" HorizontalAlignment="Left" Margin="268,222,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ShowGenreLabel" Content="" HorizontalAlignment="Left" Margin="365,222,0,0" VerticalAlignment="Top" Width="174" Background="White" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+        <Button x:Name="GoToGuestDetailBtn" Content="Continue" HorizontalAlignment="Center" Margin="0,337,0,0" VerticalAlignment="Top" Click="GoToGuestDetailBtn_Click" Height="50" Width="169" FontSize="24"/>
+        <ListBox x:Name="ListOfTimes" HorizontalAlignment="Left" Height="330" Margin="596,57,0,0" VerticalAlignment="Top" Width="168" d:ItemsSource="{d:SampleData ItemCount=5}"/>
+        <Label Content="Movies" HorizontalAlignment="Left" Margin="32,26,0,0" VerticalAlignment="Top"/>
+        <Label Content="Playing Time" HorizontalAlignment="Left" Margin="596,26,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

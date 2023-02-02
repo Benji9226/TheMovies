@@ -25,7 +25,26 @@ namespace TheMovies
             InitializeComponent();
         }
 
-        private void BookingBtn_Click(object sender, RoutedEventArgs e)
+        private void VidebækBtn_Click(object sender, RoutedEventArgs e)
+        {
+            BookingDialog bookingDialog = new BookingDialog();
+            bookingDialog.ShowDialog();
+            
+        }
+
+        private void ThorsmindeBtn_Click(object sender, RoutedEventArgs e)
+        {
+            BookingDialog bookingDialog = new BookingDialog();
+            bookingDialog.ShowDialog();
+        }
+
+        private void RæhrBtn_Click(object sender, RoutedEventArgs e)
+        {
+            BookingDialog bookingDialog = new BookingDialog();
+            bookingDialog.ShowDialog();
+        }
+
+        private void HjermBtn_Click(object sender, RoutedEventArgs e)
         {
             BookingDialog bookingDialog = new BookingDialog();
             bookingDialog.ShowDialog();
