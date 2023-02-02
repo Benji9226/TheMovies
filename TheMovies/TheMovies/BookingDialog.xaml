@@ -18,6 +18,7 @@
         <Label x:Name="ShowPremierDateLabel" Content="" HorizontalAlignment="Left" Margin="414,184,0,0" VerticalAlignment="Top" Width="111" Background="White" BorderBrush="Black" BorderThickness="1,1,1,1"/>
         <Label x:Name="GenreLabel" Content="Genre" HorizontalAlignment="Left" Margin="317,217,0,0" VerticalAlignment="Top"/>
         <Label x:Name="ShowGenreLabel" Content="" HorizontalAlignment="Left" Margin="414,217,0,0" VerticalAlignment="Top" Width="111" Background="White" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+        <Button x:Name="GoToGuestDetailBtn" Content="Continue" HorizontalAlignment="Left" Margin="703,382,0,0" VerticalAlignment="Top" Click="GoToGuestDetailBtn_Click"/>
 
     </Grid>
 </Window>

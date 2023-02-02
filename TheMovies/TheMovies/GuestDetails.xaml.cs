@@ -15,20 +15,13 @@ using System.Windows.Shapes;
 namespace TheMovies
 {
     /// <summary>
-    /// Interaction logic for BookingDialog.xaml
+    /// Interaction logic for GuestDetails.xaml
     /// </summary>
-    public partial class BookingDialog : Window
+    public partial class GuestDetails : Window
     {
-        GuestDetails guestDetails = new GuestDetails();
-        public BookingDialog()
+        public GuestDetails()
         {
             InitializeComponent();
-        }
-
-        private void GoToGuestDetailBtn_Click(object sender, RoutedEventArgs e)
-        {
-            this.Close();
-            guestDetails.ShowDialog();
         }
     }
 }

@@ -21,3 +21,5 @@ C:\Users\Benjamin Telsing\OneDrive\Skrivebord\Projekter\TheMovies\TheMovies\TheM
 C:\Users\Benjamin Telsing\OneDrive\Skrivebord\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\TheMovies.pdb
 C:\Users\Benjamin Telsing\OneDrive\Skrivebord\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\TheMovies.genruntimeconfig.cache
 C:\Users\Benjamin Telsing\OneDrive\Skrivebord\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\ref\TheMovies.dll
+C:\Users\Benjamin Telsing\OneDrive\Skrivebord\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\GuestDetails.g.cs
+C:\Users\Benjamin Telsing\OneDrive\Skrivebord\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\GuestDetails.baml
