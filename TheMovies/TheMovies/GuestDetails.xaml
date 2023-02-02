@@ -7,6 +7,14 @@
         mc:Ignorable="d"
         Title="GuestDetails" Height="450" Width="800">
     <Grid>
-        
+        <Label x:Name="GuestEmailLabel" Content="Email" HorizontalAlignment="Left" Margin="64,64,0,0" VerticalAlignment="Top" Height="46" Width="61"/>
+        <Label Content="Phone Number" HorizontalAlignment="Left" Margin="64,178,0,0" VerticalAlignment="Top" Height="46" Width="144"/>
+        <Label Content="Amount of Seats" HorizontalAlignment="Left" Margin="64,305,0,0" VerticalAlignment="Top" Height="46" Width="156"/>
+        <TextBox x:Name="GuestEmailTxtBox" HorizontalAlignment="Left" Margin="225,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" Height="32"/>
+        <TextBox x:Name="GuestPhoneNumberTxtBox" HorizontalAlignment="Left" Margin="225,178,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" Height="32"/>
+        <TextBox x:Name="GuestSeatsTxtBox" HorizontalAlignment="Left" Margin="225,305,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" Height="32"/>
+        <Button x:Name="CancelBtn" Content="Cancel" HorizontalAlignment="Left" Margin="545,234,0,0" VerticalAlignment="Top" Height="94" Width="188" FontSize="24"/>
+        <Button x:Name="ConfirmBtn" Content="Confirm" HorizontalAlignment="Left" Margin="545,71,0,0" VerticalAlignment="Top" Height="94" Width="188" FontSize="24"/>
+
     </Grid>
 </Window>
