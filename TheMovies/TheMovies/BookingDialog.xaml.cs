@@ -10,25 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace TheMovies
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for BookingDialog.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class BookingDialog : Window
     {
-        public MainWindow()
+        public BookingDialog()
         {
             InitializeComponent();
-        }
-
-        private void BookingBtn_Click(object sender, RoutedEventArgs e)
-        {
-            BookingDialog bookingDialog = new BookingDialog();
-            bookingDialog.ShowDialog();
         }
     }
 }

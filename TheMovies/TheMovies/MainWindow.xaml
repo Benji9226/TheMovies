@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Label Content="TheMovies" HorizontalAlignment="Center" Margin="0,96,0,0" VerticalAlignment="Top" Height="102" Width="400" FontSize="48" HorizontalContentAlignment="Center"/>
+        <Button x:Name="BookingBtn" Content="Booking" HorizontalAlignment="Center" Margin="0,273,0,0" VerticalAlignment="Top" Height="41" Width="132" Click="BookingBtn_Click"/>
 
     </Grid>
 </Window>
