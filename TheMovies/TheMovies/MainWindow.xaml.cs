@@ -20,8 +20,12 @@ namespace TheMovies
     /// </summary>
     public partial class MainWindow : Window
     {
+        MovieRepo movieRepo;
+
         public MainWindow()
         {
+            movieRepo = new MovieRepo();
+            movieRepo.GetMovie();
             InitializeComponent();
         }
 

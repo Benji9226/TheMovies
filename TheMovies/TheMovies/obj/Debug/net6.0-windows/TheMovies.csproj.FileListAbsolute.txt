@@ -23,3 +23,28 @@ C:\Users\Benjamin Telsing\OneDrive\Skrivebord\Projekter\TheMovies\TheMovies\TheM
 C:\Users\Benjamin Telsing\OneDrive\Skrivebord\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\ref\TheMovies.dll
 C:\Users\Benjamin Telsing\OneDrive\Skrivebord\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\GuestDetails.g.cs
 C:\Users\Benjamin Telsing\OneDrive\Skrivebord\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\GuestDetails.baml
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\bin\Debug\net6.0-windows\TheMovies.exe
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\bin\Debug\net6.0-windows\TheMovies.deps.json
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\bin\Debug\net6.0-windows\TheMovies.runtimeconfig.json
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\bin\Debug\net6.0-windows\TheMovies.dll
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\bin\Debug\net6.0-windows\TheMovies.pdb
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\TheMovies.csproj.AssemblyReference.cache
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\BookingDialog.g.cs
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\GuestDetails.g.cs
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\TheMovies_MarkupCompile.cache
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\TheMovies_MarkupCompile.lref
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\BookingDialog.baml
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\GuestDetails.baml
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\TheMovies.g.resources
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\TheMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\TheMovies.AssemblyInfoInputs.cache
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\TheMovies.AssemblyInfo.cs
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\TheMovies.csproj.CoreCompileInputs.cache
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\TheMovies.dll
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\refint\TheMovies.dll
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\TheMovies.pdb
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\TheMovies.genruntimeconfig.cache
+C:\Users\vuong\OneDrive - UCL Erhvervsakademi og Professionshøjskole\Projekter\TheMovies\TheMovies\TheMovies\TheMovies\obj\Debug\net6.0-windows\ref\TheMovies.dll

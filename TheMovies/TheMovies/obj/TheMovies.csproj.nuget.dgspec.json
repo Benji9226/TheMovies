@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Benjamin Telsing\\OneDrive\\Skrivebord\\Projekter\\TheMovies\\TheMovies\\TheMovies\\TheMovies\\TheMovies.csproj": {}
+    "C:\\Users\\vuong\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Projekter\\TheMovies\\TheMovies\\TheMovies\\TheMovies\\TheMovies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Benjamin Telsing\\OneDrive\\Skrivebord\\Projekter\\TheMovies\\TheMovies\\TheMovies\\TheMovies\\TheMovies.csproj": {
+    "C:\\Users\\vuong\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Projekter\\TheMovies\\TheMovies\\TheMovies\\TheMovies\\TheMovies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Benjamin Telsing\\OneDrive\\Skrivebord\\Projekter\\TheMovies\\TheMovies\\TheMovies\\TheMovies\\TheMovies.csproj",
+        "projectUniqueName": "C:\\Users\\vuong\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Projekter\\TheMovies\\TheMovies\\TheMovies\\TheMovies\\TheMovies.csproj",
         "projectName": "TheMovies",
-        "projectPath": "C:\\Users\\Benjamin Telsing\\OneDrive\\Skrivebord\\Projekter\\TheMovies\\TheMovies\\TheMovies\\TheMovies\\TheMovies.csproj",
-        "packagesPath": "C:\\Users\\Benjamin Telsing\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Benjamin Telsing\\OneDrive\\Skrivebord\\Projekter\\TheMovies\\TheMovies\\TheMovies\\TheMovies\\obj\\",
+        "projectPath": "C:\\Users\\vuong\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Projekter\\TheMovies\\TheMovies\\TheMovies\\TheMovies\\TheMovies.csproj",
+        "packagesPath": "C:\\Users\\vuong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vuong\\OneDrive - UCL Erhvervsakademi og Professionshøjskole\\Projekter\\TheMovies\\TheMovies\\TheMovies\\TheMovies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Benjamin Telsing\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vuong\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
