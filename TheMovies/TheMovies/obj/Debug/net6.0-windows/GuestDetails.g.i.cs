@@ -101,7 +101,7 @@ namespace TheMovies {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TheMovies;component/guestdetails.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TheMovies;V1.0.0.0;component/guestdetails.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\GuestDetails.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
